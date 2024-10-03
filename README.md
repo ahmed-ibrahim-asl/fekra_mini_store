@@ -1,16 +1,10 @@
 # fekra_mini_store
 
-A new Flutter project.
+A simple Flutter project for a basic e-commerce application.
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+This project was created while following a crash course on YouTube to implement the basic structure of an e-commerce app. It includes essential features like product listing and cart management.
 
-A few resources to get you started if this is your first Flutter project:
+You can watch the crash course [here](https://www.youtube.com/watch?v=HQ_ytw58tC4).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
